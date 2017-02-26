@@ -1,0 +1,12 @@
+Lego BrickBreaker - Prototype
+===========================
+
+What is being prototyped?
+==========================
+A rpg lego brick breaker game in which the player levels up with increasing order of difficulty
+
+How to play?
+=============
+
+Use the spacebar key
+
